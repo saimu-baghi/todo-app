@@ -2,6 +2,8 @@
 
 install node first if it is not installed
 
-run ### npm install
+run in root directory
+### npm install
 
-then run ### npm start
+then
+### npm start
